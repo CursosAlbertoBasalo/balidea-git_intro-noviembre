@@ -1,0 +1,15 @@
+{
+  "name": "balidea-git_intro-noviembre",
+  "version": "1.0.0",
+  "description": "Por [Alberto Basalo](http://albertobasalo.dev) el 29/11/2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
